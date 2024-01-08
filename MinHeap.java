@@ -1,11 +1,3 @@
-/*
- * Lilia Skumatova
- * UCID: 30187339
- * assignment 1 CPSC 331
- */
-package ca.ucalgary.cpsc331.a1;
-
-
 public class MinHeap implements PriorityQueue {
 	//variable assignment
     private int[] heap;
