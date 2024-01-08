@@ -1,5 +1,3 @@
-package ca.ucalgary.cpsc331.a2;
-
 public class Node {
 	Node parent;
 	Node left;
