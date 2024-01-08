@@ -1,5 +1,3 @@
-package ca.ucalgary.cpsc331.a3;
-
 public interface Dictionary {
     // full(): returns true iff Dictionary is full.
     boolean full();
