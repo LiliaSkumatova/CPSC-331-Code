@@ -1,5 +1,3 @@
-package ca.ucalgary.cpsc331.a2;
-
 public interface Dictionary {
 	// empty(): returns true iff the dictionary
 	// is empty.
