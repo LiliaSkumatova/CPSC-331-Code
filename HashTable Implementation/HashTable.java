@@ -1,7 +1,3 @@
-//Lilia Skumatova
-//UCID: 30187339
-package ca.ucalgary.cpsc331.a3;
-
 public class HashTable implements Dictionary {
 
 	//set up some constant variables as the capacity does not change and
